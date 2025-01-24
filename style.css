@@ -1,0 +1,33 @@
+*{
+
+}
+
+img{
+	width:20%;
+	height: 30%;
+}
+
+body	{
+		justify-content: center;
+		text-align: center;
+    	font-family: Arial, sans-serif;
+    	background-color: maroon;
+    	color: #3e3a36;
+    	margin: 0;
+    	padding: 0;
+	}
+
+	.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+h1, h2 {
+    color: white;
+}
+
